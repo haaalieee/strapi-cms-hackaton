@@ -16,6 +16,7 @@
     "better-sqlite3": "8.0.1",
     "pg": "^8.11.0",
     "pg-connection-string": "^2.6.0",
+    "strapi": "^3.6.11",
     "strapi-plugin-netlify-deployments": "^2.0.0"
   },
   "author": {
